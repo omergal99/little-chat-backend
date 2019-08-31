@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-chat/precache-manifest.bb571941008dadcefc27c530c3e742ae.js"
+  "/react-chat/precache-manifest.0fe40b83e9ea6f05cf2c3eb14990ccdd.js"
 );
 
 self.addEventListener('message', (event) => {
