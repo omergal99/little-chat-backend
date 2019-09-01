@@ -1,5 +1,3 @@
-const dogsService = require('../services/dogs-service.js')
-
 function socketRoute(io) {
 
   io.on('connection', socket => {
