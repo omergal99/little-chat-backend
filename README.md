@@ -1,6 +1,5 @@
 ## little-chat-backend
 
-upload to heroku:
+link to heroku: https://little-chat.herokuapp.com
 
-https://little-chat.herokuapp.com
-
+link to front: https://github.com/omergal99/react-chat-redux
